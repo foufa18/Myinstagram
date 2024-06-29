@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Instagram</string>
+    <string name="You">Your story</string>
+    <string name="foodie">electro</string>
+    <string name="electro">electrical</string>
+    <string name="f">car</string>
+
+    <string name="foodie1">foodie1</string>
+    <string name="faten">ilyes</string>
+    <string name="description">Be a winner</string>
+    <string name="time">3</string>
+    <string name="timeFormat">hours ago</string>
+    <string name="likes">3054</string>
+    <string name="comments">30</string>
+    <string name="description2">Spain are on fire 🔥🔥</string>
+    <string name="time2">14</string>
+    <string name="timeFormat2">minutes ago</string>
+    <string name="likes2">345,567</string>
+    <string name="comments2">1237</string>
+
+
+
+
+
+    <string name="description3">el principe diego milito🥶</string>
+    <string name="time3">1</string>
+    <string name="timeFormat3">day ago</string>
+    <string name="likes3">1,234,981</string>
+    <string name="comments3">4569</string>
+</resources>
